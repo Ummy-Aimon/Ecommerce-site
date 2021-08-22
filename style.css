@@ -21,6 +21,7 @@ color: brown !important;
 }
 #main{
     background-image: url(img/lunchcopy.jpg);
+    background-position: 50% 50%;
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -50,7 +51,8 @@ h3{
     
 }
 #apple{
-    background-image: url(img/red.jpg);
+    background-image: url(img/red.jpg) ;
+    background-position: 50% 50%;
     background-size: cover;
     height: 100vh;
     width: 100%;
