@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+
+    font-size: 25px;
+    color: black;
+    font-family: 'Roboto Mono', monospace;
+
+}
+.nav-item{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nav-link{
+    color: black !important; 
+    margin: 10px; 
+}
+.nav-link:hover{
+color: brown !important;
+}
+#main{
+    background-image: url(img/lunchcopy.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.text{
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    font-weight: 700;
+    font-size: 60px ;
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.btn1{
+    border-radius: 6px;
+    background-color: tomato;
+    margin-left: 40%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn2{
+    
+    margin-left: 35%;
+    border-radius: 60px;
+    
+}
+#apple{
+    background-image: url(img/red.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.text1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color:brown;
+}
+.btn3{
+    
+    border-radius: 60px;
+    color:black;
+    
+}
+.half{
+    width: 40%;
+    margin: 5%;
+    float:left;
+}
+i{
+    color:brown;
+}
+#news{
+    background-color: black;
+}
+#news input{
+    height: 40px;
+    width: 50%;
+    outline: none;
+    border: 2px solid white;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    margin-left: 25%;
+
+    
+}
+#news p{
+    color: white;
+    margin: 0;
+}
+
